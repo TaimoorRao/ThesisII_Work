@@ -1,0 +1,11 @@
+1. First create a Python virtual environment via the following command:
+	python3 -m venv env
+
+2. Download TESSERECT OCR
+	https://github.com/UB-Mannheim/tesseract/wiki
+
+3. Execute following command in cmd to install OCR
+	install tesserect OCR
+
+4. To run the program execute following command
+	python main.py --p #provide file path here that contains application GUI images
